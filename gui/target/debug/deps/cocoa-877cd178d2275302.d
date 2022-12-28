@@ -1,0 +1,12 @@
+/Users/Viara/Documents/Rust Shenanigans/gui/target/debug/deps/cocoa-877cd178d2275302.rmeta: /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/lib.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/appkit.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/base.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/foundation.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/quartzcore.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/macros.rs
+
+/Users/Viara/Documents/Rust Shenanigans/gui/target/debug/deps/libcocoa-877cd178d2275302.rlib: /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/lib.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/appkit.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/base.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/foundation.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/quartzcore.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/macros.rs
+
+/Users/Viara/Documents/Rust Shenanigans/gui/target/debug/deps/cocoa-877cd178d2275302.d: /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/lib.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/appkit.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/base.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/foundation.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/quartzcore.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/macros.rs
+
+/Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/lib.rs:
+/Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/appkit.rs:
+/Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/base.rs:
+/Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/foundation.rs:
+/Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/quartzcore.rs:
+/Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.1/src/macros.rs:

@@ -1,0 +1,11 @@
+/Users/Viara/Documents/Rust Shenanigans/gui/target/debug/deps/dioxus_hooks-5d0bfe916ecff4d6.rmeta: /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-hooks-0.2.1/src/lib.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-hooks-0.2.1/src/usestate.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-hooks-0.2.1/src/useref.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-hooks-0.2.1/src/use_shared_state.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-hooks-0.2.1/src/usecoroutine.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-hooks-0.2.1/src/usefuture.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-hooks-0.2.1/src/useeffect.rs
+
+/Users/Viara/Documents/Rust Shenanigans/gui/target/debug/deps/dioxus_hooks-5d0bfe916ecff4d6.d: /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-hooks-0.2.1/src/lib.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-hooks-0.2.1/src/usestate.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-hooks-0.2.1/src/useref.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-hooks-0.2.1/src/use_shared_state.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-hooks-0.2.1/src/usecoroutine.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-hooks-0.2.1/src/usefuture.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-hooks-0.2.1/src/useeffect.rs
+
+/Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-hooks-0.2.1/src/lib.rs:
+/Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-hooks-0.2.1/src/usestate.rs:
+/Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-hooks-0.2.1/src/useref.rs:
+/Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-hooks-0.2.1/src/use_shared_state.rs:
+/Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-hooks-0.2.1/src/usecoroutine.rs:
+/Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-hooks-0.2.1/src/usefuture.rs:
+/Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/dioxus-hooks-0.2.1/src/useeffect.rs:

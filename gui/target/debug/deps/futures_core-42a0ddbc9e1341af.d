@@ -1,0 +1,11 @@
+/Users/Viara/Documents/Rust Shenanigans/gui/target/debug/deps/futures_core-42a0ddbc9e1341af.rmeta: /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.25/src/lib.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.25/src/future.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.25/src/stream.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.25/src/task/mod.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.25/src/task/poll.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.25/src/task/__internal/mod.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.25/src/task/__internal/atomic_waker.rs
+
+/Users/Viara/Documents/Rust Shenanigans/gui/target/debug/deps/futures_core-42a0ddbc9e1341af.d: /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.25/src/lib.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.25/src/future.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.25/src/stream.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.25/src/task/mod.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.25/src/task/poll.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.25/src/task/__internal/mod.rs /Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.25/src/task/__internal/atomic_waker.rs
+
+/Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.25/src/lib.rs:
+/Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.25/src/future.rs:
+/Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.25/src/stream.rs:
+/Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.25/src/task/mod.rs:
+/Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.25/src/task/poll.rs:
+/Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.25/src/task/__internal/mod.rs:
+/Users/Viara/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.25/src/task/__internal/atomic_waker.rs:
